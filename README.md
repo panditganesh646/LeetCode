@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/panditganesh646/LeetCode/tree/master/0035-search-insert-position) |
 | [0867-transpose-matrix](https://github.com/panditganesh646/LeetCode/tree/master/0867-transpose-matrix) |
 ## Matrix
 |  |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/panditganesh646/LeetCode/tree/master/0389-find-the-difference) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/panditganesh646/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
