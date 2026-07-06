@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/panditganesh646/LeetCode/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/panditganesh646/LeetCode/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/panditganesh646/LeetCode/tree/master/0867-transpose-matrix) |
 ## Matrix
 |  |
@@ -34,4 +35,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/panditganesh646/LeetCode/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/panditganesh646/LeetCode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
