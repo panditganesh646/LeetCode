@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/panditganesh646/LeetCode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/panditganesh646/LeetCode/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/panditganesh646/LeetCode/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/panditganesh646/LeetCode/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/panditganesh646/LeetCode/tree/master/0867-transpose-matrix) |
 ## Matrix
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/panditganesh646/LeetCode/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/panditganesh646/LeetCode/tree/master/0389-find-the-difference) |
 ## String
 |  |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/panditganesh646/LeetCode/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/panditganesh646/LeetCode/tree/master/0389-find-the-difference) |
 ## Binary Search
 |  |
