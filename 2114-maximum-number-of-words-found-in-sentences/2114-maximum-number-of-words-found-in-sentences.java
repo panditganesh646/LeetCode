@@ -13,9 +13,6 @@ class Solution {
                        maxWords = words;
                     }
                }
-
-              
-
                return maxWords;
     }
 }
