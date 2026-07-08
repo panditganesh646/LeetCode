@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/panditganesh646/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/panditganesh646/LeetCode/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/panditganesh646/LeetCode/tree/master/0867-transpose-matrix) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/panditganesh646/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Matrix
 |  |
 | ------- |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/panditganesh646/LeetCode/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/panditganesh646/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
