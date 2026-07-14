@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/panditganesh646/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/panditganesh646/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/panditganesh646/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/panditganesh646/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/panditganesh646/LeetCode/tree/master/0704-binary-search) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/panditganesh646/LeetCode/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/panditganesh646/LeetCode/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/panditganesh646/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/panditganesh646/LeetCode/tree/master/2235-add-two-integers) |
