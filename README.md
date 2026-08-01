@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/panditganesh646/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/panditganesh646/LeetCode/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/panditganesh646/LeetCode/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/panditganesh646/LeetCode/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/panditganesh646/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/panditganesh646/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/panditganesh646/LeetCode/tree/master/2235-add-two-integers) |
