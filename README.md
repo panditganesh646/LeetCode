@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/panditganesh646/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/panditganesh646/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/panditganesh646/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/panditganesh646/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/panditganesh646/LeetCode/tree/master/0704-binary-search) |
 ## Linked List
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/panditganesh646/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/panditganesh646/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/panditganesh646/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0633-sum-of-square-numbers](https://github.com/panditganesh646/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/panditganesh646/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/panditganesh646/LeetCode/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/panditganesh646/LeetCode/tree/master/0412-fizz-buzz) |
+| [0633-sum-of-square-numbers](https://github.com/panditganesh646/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/panditganesh646/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/panditganesh646/LeetCode/tree/master/2235-add-two-integers) |
 ## Prefix Sum
