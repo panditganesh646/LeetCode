@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/panditganesh646/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/panditganesh646/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/panditganesh646/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/panditganesh646/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/panditganesh646/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/panditganesh646/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/panditganesh646/LeetCode/tree/master/0704-binary-search) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/panditganesh646/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/panditganesh646/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/panditganesh646/LeetCode/tree/master/0258-add-digits) |
+| [0367-valid-perfect-square](https://github.com/panditganesh646/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/panditganesh646/LeetCode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/panditganesh646/LeetCode/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/panditganesh646/LeetCode/tree/master/0633-sum-of-square-numbers) |
